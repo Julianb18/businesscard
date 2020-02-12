@@ -3,7 +3,7 @@ It's me, Julian!
 # Usage
 
 ```bash
-npx julianB
+npx julianb18
 ```
 
 # Credit

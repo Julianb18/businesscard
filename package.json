@@ -1,6 +1,6 @@
 {
-  "name": "julian",
-  "version": "1.2.0",
+  "name": "julianb18",
+  "version": "1.2.2",
   "description": "Julian Braun's business card",
   "main": "./bin/card.js",
   "bin": {
