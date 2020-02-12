@@ -1,20 +1,20 @@
 {
-  "name": "natterstefan",
+  "name": "julian",
   "version": "1.1.0",
-  "description": "Stefan Natter (@natterstefan)'s business card",
+  "description": "Julian Braun's business card",
   "main": "./bin/card.js",
   "bin": {
-    "natterstefan": "./bin/card.js"
+    "julian": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/natterstefan/businesscard.git"
+    "url": "https://github.com/Julianb18/businesscard"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "Stefan Natter",
+  "author": "Julian Braun",
   "license": "MIT",
   "dependencies": {
     "boxen": "^4.1.0",
